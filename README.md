@@ -19,6 +19,10 @@
 
 Whether you need a serene alpine lake during deep focus sessions, cozy rain for relaxation, or want to showcase your own personal photo albums with custom particle effects and generative soundscapes, Ambient adapts to your mood in one click.
 
+<p align="center">
+  <img src="docs/screenshots/home-preview.png" alt="Ambient: Living Canvas - Home Screen" width="100%" />
+</p>
+
 ---
 
 ## 🚀 Key Features
@@ -47,6 +51,10 @@ Whether you need a serene alpine lake during deep focus sessions, cozy rain for 
   - 🌧️ *Soft Rain*
   - 🍃 *Falling Leaves*
 - **Custom Display Durations:** Set precise per-slide durations (5s to 60s).
+
+<p align="center">
+  <img src="docs/screenshots/albums-manager.png" alt="Personal Screensaver Album Studio" width="100%" />
+</p>
 
 ### 🎵 Generative Ambient Audio & Soundscapes
 - Integrated soundscape engine with independent volume control:
