@@ -31,30 +31,52 @@ Whether you need a serene alpine lake during deep focus sessions, cozy rain for 
 - **Breathtaking Collections:** Ultra-high-resolution curated visual scenes spanning alpine peaks, deep cosmic nebulas, coastal waves, architectural zen spaces, neon cyberpunk cities, and cozy firesides.
 - **Continuous Cinematic Motion:** Subtle Ken Burns zooms, gentle panning, and buttery crossfades calibrated for all-day background playback.
 
-### 🎭 Mood Calibrations
-- **Feel-Driven Atmospheres:** Instantly filter and launch visual flows calibrated for specific mental states:
-  - 🌿 **Peaceful:** Calming natural landscapes and gentle daylight.
-  - 📐 **Focus:** Minimalist architecture, clean lines, and geometric symmetry.
-  - ☕ **Cozy:** Warm hearths, rainy windowpanes, and golden interiors.
-  - ⚡ **Energized:** Vibrant golden hours and dramatic lighting.
-  - ✨ **Dreamy:** Pastel twilights, ethereal clouds, and cosmic vistas.
-  - 🎬 **Cinematic:** Anamorphic compositions and dramatic horizons.
+### 🖥️ Zero-Distraction Fullscreen Screensaver Player
+- **Floating Ambient HUD:** Controls and cursor fade out automatically after 3 seconds of inactivity.
+- **Integrated Clock & Date:** Minimalist translucent clock in the corner with seconds toggle.
+- **Zero-Login Quick Start:** Guests can click **Start Ambient** or **Surprise Me** immediately without creating an account.
+
+<p align="center">
+  <img src="docs/screenshots/screensaver-fullscreen.png" alt="Fullscreen Screensaver Player" width="100%" />
+</p>
+
+### ✨ Dynamic Particle Overlays & Atmosphere
+- **Canvas-Rendered Ambient Overlays:** Layer dynamic ambient particle effects over photos or landscapes:
+  - ❄️ *Gentle Snow*
+  - ✨ *Floating Starlight & Bokeh*
+  - 🔥 *Warm Embers*
+  - 🌧️ *Soft Rain*
+  - 🍃 *Falling Leaves*
+
+<p align="center">
+  <img src="docs/screenshots/particles-ambient.png" alt="Dynamic Ambient Particle Overlays" width="100%" />
+</p>
+
+### 🎭 Mood Calibrations & Visual Worlds Exploration
+- **Feel-Driven Atmospheres:** Instantly filter and launch visual flows calibrated for specific mental states (*Peaceful, Focused, Cozy, Energized, Dreamy, Cinematic*).
+- **Curated Environmental Worlds:** Seamlessly browse by environment, atmosphere, and artistic genre.
+
+| Mood Calibrations | Worlds & Environments |
+| :---: | :---: |
+| <img src="docs/screenshots/moods-live.png" alt="Mood Calibrations View" width="100%" /> | <img src="docs/screenshots/worlds-categories.png" alt="Worlds & Environments Browser" width="100%" /> |
 
 ### 📸 Personal Screensaver & Album Studio ("My Photos")
 - **Custom Album Builder:** Organize and name personal albums for family trips, design portfolios, or favorite memories.
 - **Batch Photo Uploads:** Upload multiple photos simultaneously with a real-time progress bar.
 - **Configurable Transitions:** Choose between Crossfade, Slide, Zoom In, or Ken Burns motion.
-- **Particle Overlays:** Layer dynamic ambient particle effects over photos:
-  - ❄️ *Gentle Snow*
-  - ✨ *Floating Starlight*
-  - 🔥 *Warm Embers*
-  - 🌧️ *Soft Rain*
-  - 🍃 *Falling Leaves*
 - **Custom Display Durations:** Set precise per-slide durations (5s to 60s).
 
 <p align="center">
   <img src="docs/screenshots/albums-manager.png" alt="Personal Screensaver Album Studio" width="100%" />
 </p>
+
+### ⚙️ Deep Playback Settings & Cloud Authentication
+- **Experience Customization:** Fine-tune transition animations, motion dynamics, display durations, and rendering performance for low-power or ultra-high-fidelity displays.
+- **Supabase Cloud Sync:** Sign in to save private albums, create custom playlists, and sync favorites across all your devices.
+
+| Experience Settings | Cloud Authentication |
+| :---: | :---: |
+| <img src="docs/screenshots/experience-settings.png" alt="Experience Settings Dialog" width="100%" /> | <img src="docs/screenshots/auth-modal.png" alt="User Sign In Dialog" width="100%" /> |
 
 ### 🎵 Generative Ambient Audio & Soundscapes
 - Integrated soundscape engine with independent volume control:
@@ -64,16 +86,6 @@ Whether you need a serene alpine lake during deep focus sessions, cozy rain for 
   - *Crackling Campfire*
   - *Forest Breeze*
   - *White & Pink Noise*
-
-### 🖥️ Zero-Distraction Multi-Monitor Experience
-- **Auto-Hiding HUD:** Controls and cursor fade out automatically after 3 seconds of inactivity.
-- **Full Widescreen Design:** Expands edge-to-edge on 1080p, 1440p, 4K, and Ultrawide displays without awkward side borders.
-- **Zero-Login Quick Start:** Guests can click **Start Ambient** or **Surprise Me** immediately without creating an account.
-
-### 🔐 Supabase Cloud Integration
-- **User Accounts:** Sign up and log in securely with email and password.
-- **Cloud Playlists & Favorites:** Synchronize custom playlists and favorite scenes across multiple computers or tablets.
-- **Row-Level Security (RLS):** Fully isolated user data and private storage buckets for photo uploads.
 
 ### 🛡️ Admin Studio
 - Dedicated administrative dashboard to curate public media items, manage user roles, and review incoming user feedback and contact submissions.

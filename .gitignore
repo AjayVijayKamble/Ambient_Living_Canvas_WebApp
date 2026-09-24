@@ -22,6 +22,7 @@ dist-ssr
 .DS_Store
 desktop.ini
 Thumbs.db
+Screenshot to be uploaded/
 *.suo
 *.ntvs*
 *.njsproj
